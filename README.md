@@ -9,7 +9,7 @@ A Naive Bayes classifier to perform spam filtering.
 • split_dataset : Script to split dataset for personal testing purposes \
 • runner : Script to do all learning, classifying and evaluation in a go \
 • Report : A small summarization of classification results \
-• spam_ham_dataset : "train" - Training Dataset , "dev" - Testing Dataset \
+• spam_ham_dataset : "train" - Training Dataset , "dev" - Testing Dataset
 
 
 ## Usage
